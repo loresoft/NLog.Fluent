@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog.Fluent", "NLog.Fluent\NLog.Fluent.csproj", "{77C1EE72-0CF9-4FD1-82F0-A2F7C75C33B1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3990B920-EF32-4B38-9C89-04FFC0A14655}"

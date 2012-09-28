@@ -50,6 +50,8 @@
     <Compile Include="..\GlobalAssemblyInfo.cs">
       <Link>GlobalAssemblyInfo.cs</Link>
     </Compile>
+    <Compile Include="CallerAttribute.cs" />
+    <Compile Include="Log.cs" />
     <Compile Include="LogBuilder.cs" />
     <Compile Include="LoggerExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
